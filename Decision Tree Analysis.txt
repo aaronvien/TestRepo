@@ -1,0 +1,20 @@
+Gilmore Tech
+Server Cost: Php500,000  
+Delayed Chance: 25% chance
+Extra Cost if delayed : Php200,000
+
+Octacore Computer Center
+Server Cost: Php600,000  
+Delayed Chance: 10% chance
+Extra Cost if delayed : Php250,000
+
+
+Gilmore Tech
+500,000 + 200,000 = 700,000
+EMV = (500,000 * 75%) + (700,000 * 25%)
+EMV = 375,000 + 175,000 = 550,000
+
+Octacore Computer Center
+600,000 + 250,000 = 850,000
+EMV = (600,000 * 90%) + (850,000 * 10%)
+EMV = 540,000 + 85,000 = 625,000
